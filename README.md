@@ -17,7 +17,7 @@ API имеет несколько endpoint'ов:
 2. Метод показа статистики
    URL: http://localhost:8000/api/click-statistic/?from={from_date}&to={to_date}
    Method: GET
-3. Метод удаления всеё статистики
+3. Метод удаления всей статистики
    URL: http://localhost:8000/api/click-statistic/delete_all/
    METHOD: DELETE
 4. Метод удаления определённого объекта статистики
