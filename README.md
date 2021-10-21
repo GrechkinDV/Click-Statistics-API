@@ -3,7 +3,7 @@
 - pip install -r requirements.txt
 - python manage.py runserver
 
-В качестве базы данных оставлен дефолтный SQLite3
+В качестве базы данных оставлен дефолтный SQLite3.
 API имеет несколько endpoint'ов:
 
 1. Сохранение статистики
